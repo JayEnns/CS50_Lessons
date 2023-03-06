@@ -71,6 +71,6 @@ int main(void)
         {
             printf("INVALID");
         }
-        printf("\n");
+        printf("\n\n");
     }
 }
